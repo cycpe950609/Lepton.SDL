@@ -1,0 +1,33 @@
+{
+  "name": "leptonjs-sdl",
+  "version": "0.0.1-dev",
+  "description": "The SDL binding for Lepton.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ffi": "*",
+    "ref": "*",
+    "ref-array": "*",
+    "ref-struct": "*",
+    "ref-union": "*",
+    "sdl2-gfx": "*",
+    "sdl2-image": "*",
+    "sdl2-ttf": "*"
+  },
+  "devDependencies": {
+    "ffi-gen": "*"
+  },
+  "keywords": [
+    "Lepton.js",
+    "SDL",
+    "Nodejs"
+  ],
+  "author": "Cycpe950609",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
