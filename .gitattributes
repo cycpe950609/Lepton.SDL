@@ -1,0 +1,2 @@
+#避免GitHub將專案當成C/C++專案
+*.h linguist-detectable=false
