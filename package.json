@@ -1,6 +1,6 @@
 {
   "name": "leptonjs-sdl",
-  "version": "0.0.1-dev",
+  "version": "0.0.2-dev",
   "description": "The SDL binding for Lepton.js",
   "main": "index.js",
   "scripts": {
